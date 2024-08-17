@@ -1,7 +1,7 @@
 public class ZoharSabag{
 	public static void main(String[] args){
 		for(int i=1;i<=10;i++){
-			System.out.println("Zohar Sabag "+i);
+			System.out.println("My name is: Zohar Sabag "+i);
 			
 			}
 	}
